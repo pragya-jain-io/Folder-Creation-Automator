@@ -1,2 +1,16 @@
 # Folder-Creation-Automator
-This Python script automates the creation of directories for subjects, providing an efficient way to organize course-related files. The program utilizes the os module to dynamically generate folders for various subjects, streamlining the process of maintaining a structured directory for academic materials
+
+Automate the creation of folders for efficient organization of your materials.
+
+## Features
+
+- **Automated Folder Creation:** Quickly generate folders.
+- **Customizable:** Easily customize the list of subjects to match your specific semester courses.
+- **Efficient File Management:** Streamline your workflow by automating the tedious task of manual folder creation.
+- **Easy to Use:** Simple and user-friendly script for students and developers alike.
+
+## Usage
+
+1. Clone the repository to your local machine.
+2. Update the `directory` list in the script with your folders.
+3. Run the script.
