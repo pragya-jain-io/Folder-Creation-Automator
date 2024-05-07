@@ -1,23 +1,33 @@
-# importing os module   
+#  importing os module   
 import os  
     
 # Directory  
-directory = ["Artificial Intelligence ",
-"Artificial Intelligence Lab ",
-"Advanced Java Programming ",
-"Advanced Java Programming Lab ",
-"Universal Human Values ",
-"Web Technologies ",
-"Web Technologies Lab ",
-"Principles of Management for Engineers ",
-"Programming in Python ",
-"Programming in Python Lab ",
-"Statistics, Statistical Modelling & Data Analytics ",
-"Statistics, Statistical Modelling & Data Analytics Lab"
+directory = ["Patterns",
+"Basic Maths",
+"Hashing",
+"Sorting",
+"Arrays",
+"Binary Search [ID, 2D Arrays, Search Space]",
+"Strings [Basic and Medium]",
+"Learn LinkedList [Single LL Double LL. Medium, Hard Problems]",
+"Recursion  ",
+"Bit Manipulation",
+"Stack and Queues [Learning, Pre-in-Post-fix, Monotonic Stack, Implementation]",
+"Sliding Window & Two Pointer Combined Problems",
+"Heaps [Learning, Medium, Hard Problems]",
+"Greedy Algorithms [Easy, Medium, Hard]",
+"Binary Trees [Traversals, Medium and Hard Problems]",
+"Binary Search Trees [Concept and Problems]",
+"Graphs [Concepts & Problems]",
+"Dynamic Programming [Patterns and Problems]",
+"Trie",
+"General - Hard",
+"General - Medium",
+"General - Easy"
 ]
     
 # Parent Directory path  
-parent_dir = "C:/Users/User/Desktop/College/6th Semester Subjects"
+parent_dir = "C:/Users/User/Desktop/DSA" # this folder must already exist
     
 
 for i in directory:
